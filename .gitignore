@@ -1,0 +1,14 @@
+/.env
+/vendor
+/node_modules
+/public/build
+/public/hot
+/storage/*.key
+/bootstrap/cache/*.php
+/database/*.sqlite-shm
+/database/*.sqlite-wal
+/database/*.sqlite
+/storage/framework/sessions/*
+!/storage/framework/sessions/.gitkeep
+/storage/framework/views/*
+!/storage/framework/views/.gitkeep
